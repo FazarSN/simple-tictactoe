@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Simple_Tic-Tac-Toe.iml" filepath="$PROJECT_DIR$/.idea/modules/Simple_Tic-Tac-Toe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Simple Tic-Tac-Toe/task/Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Simple Tic-Tac-Toe/task/Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Simple Tic-Tac-Toe/task/build/classes/java/Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task-build-classes-java.iml" filepath="$PROJECT_DIR$/.idea/modules/Simple Tic-Tac-Toe/task/build/classes/java/Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task-build-classes-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Simple Tic-Tac-Toe/task/build/classes/kotlin/Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task-build-classes-kotlin.iml" filepath="$PROJECT_DIR$/.idea/modules/Simple Tic-Tac-Toe/task/build/classes/kotlin/Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task-build-classes-kotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Simple Tic-Tac-Toe/task/build/generated/sources/annotationProcessor/java/Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task-build-generated-sources-annotationProcessor-java.iml" filepath="$PROJECT_DIR$/.idea/modules/Simple Tic-Tac-Toe/task/build/generated/sources/annotationProcessor/java/Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task-build-generated-sources-annotationProcessor-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Simple Tic-Tac-Toe/task/build/generated/sources/headers/java/Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task-build-generated-sources-headers-java.iml" filepath="$PROJECT_DIR$/.idea/modules/Simple Tic-Tac-Toe/task/build/generated/sources/headers/java/Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task-build-generated-sources-headers-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Simple Tic-Tac-Toe/task/build/reports/tests/Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task-build-reports-tests.iml" filepath="$PROJECT_DIR$/.idea/modules/Simple Tic-Tac-Toe/task/build/reports/tests/Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task-build-reports-tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Simple Tic-Tac-Toe/task/build/test-results/Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task-build-test-results.iml" filepath="$PROJECT_DIR$/.idea/modules/Simple Tic-Tac-Toe/task/build/test-results/Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task-build-test-results.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Simple Tic-Tac-Toe/task/build/tmp/Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task-build-tmp.iml" filepath="$PROJECT_DIR$/.idea/modules/Simple Tic-Tac-Toe/task/build/tmp/Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task-build-tmp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Simple Tic-Tac-Toe/task/out/Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task-out.iml" filepath="$PROJECT_DIR$/.idea/modules/Simple Tic-Tac-Toe/task/out/Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task-out.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Simple_Tic-Tac-Toe.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Simple_Tic-Tac-Toe.util.iml" />
+    </modules>
+  </component>
+</project>
